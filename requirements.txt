@@ -20,3 +20,5 @@ pydantic
 langchain-mongodb
 pymongo
 mysql-connector-python
+fastapi
+motor
